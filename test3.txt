@@ -1,0 +1,2 @@
+#checking the existence of a file
+file.exists("name of the file")
