@@ -1,2 +1,4 @@
 #opening the selection window in R
 file.choose()
+#opening upon clicking
+file.show()
